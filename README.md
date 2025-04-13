@@ -6,3 +6,4 @@ DOMAIN:FRONTEND WEB DEVELOPMENT
 MENTOR:NEELA SANTHOSH KUMAR
 A real-time chat application is a software platform that enables users to send and receive messages instantly over the internet. It supports live communication through text, and often includes features like user authentication, message notifications, typing indicators, and online/offline status. Some advanced versions also support multimedia sharing, group chats, and end-to-end encryption. It’s commonly used in customer support, social networking, and team collaboration.
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/b1a8a8d4-64f0-4cd7-9018-2b01cc9e12a6)
